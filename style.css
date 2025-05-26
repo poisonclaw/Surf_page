@@ -1,0 +1,39 @@
+h1 { color: #fff; text-align: center; font-size: 18px; border-style: dashed;
+    background-color: rgb(37, 16, 16);
+}
+
+h2 { font-size: 22px;
+    color: #fff;}
+
+header {font-size:40px; margin-bottom: 2%; 
+text-align: center;
+border-style: double;
+border-color: rgb(145, 145, 145);
+background-color: rgb(60, 73, 114);
+font-style: oblique; margin-left: 20%; margin-right:20%;
+text-shadow: 15px;
+}
+
+body {background-color: rgb(37, 43, 54);}
+
+h3 {Font-size: 18px;
+    text-align: left;
+    border-style: dotted; 
+font-style: italic;}
+
+#surf {margin-left: 25%;margin-right: 20%; border-style: ridge; 
+    border-radius: 1%; border-width: 10px; margin-bottom: 3%; margin-top: 3%;
+}
+#praia {margin-left: 35%;margin-right: 20%; border-style: ridge; 
+    border-radius: 1%; border-width: 10px; margin-bottom: 3%; margin-top: 3%;
+    size: 30px;
+}
+h3 {background-color: rgb(101, 138, 138);
+}
+#dog {
+    margin-left: 35%;margin-right: 20%; border-style: dashed;
+    border-width: 8px; background-color: rgb(187, 220, 248);
+}
+h5 {
+    font-size: 20px; text-align: left;border-style: dotted; background-color: rgb(102, 135, 136);
+}
